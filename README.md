@@ -3,15 +3,15 @@ Visit the [website](http://www.aurorabuilder.com "Aurora Website") for more info
 
 # Aurora Legacy Project
 The goal of Aurora Legacy is to continually support Aurora Builder app with updates to content files.  <br>
-Please take a moment to review the [contributing guidelines](https://github.com/AuroraLegacy/elements/blob/master/.github/CONTRIBUTING.md) when creating an issue, making a content request, or submitting a pull request.
+Please take a moment to review the [contributing guidelines](https://github.com/Kyubendo/kon-elements/blob/master/.github/CONTRIBUTING.md) when creating an issue, making a content request, or submitting a pull request.
 
 ### Extending Content
 Go to the _Additional Content_ tab in Aurora, enter the URL of the index file, and have Aurora download the content to the custom folder for you. When these files get updated, Aurora will be able to keep content files up to date automatically. <br>
 More information about extending the content can be found [here](http://aurorabuilder.com/content/ "Additional Content") (could be taken down at a later time).
 
-- https://raw.githubusercontent.com/AuroraLegacy/elements/master/core.index **(strongly recommended)**
-- https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements.index
-- https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana.index
+- https://raw.githubusercontent.com/Kyubendo/kon-elements/master/core.index **(strongly recommended)**
+- https://raw.githubusercontent.com/Kyubendo/kon-elements/master/supplements.index
+- https://raw.githubusercontent.com/Kyubendo/kon-elements/master/unearthed-arcana.index
 
 _**Warning:**_ Users who previously used content from now archived Aurora repository, must first delete following folders and files in "_custom_" folder (you can open it through the Additional Content tab's "Content Folder" button), before using links above: "core" folder, "_supplements_" folder, "_unearthed-arcana_" folder, "_core.index_" file, "_supplements.index_" file, "_unearthed-arcana.index_" file.
 

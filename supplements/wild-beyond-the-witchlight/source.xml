@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/wild-beyond-the-witchlight/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/Kyubendo/kon-elements/master/supplements/wild-beyond-the-witchlight/source.xml" />
 		</update>
 	</info>
 	<element name="The Wild Beyond The Witchlight" type="Source" source="Core" id="ID_WOTC_SOURCE_WILD_BEYOND_THE_WITCHLIGHT">

@@ -3,7 +3,7 @@
 	<info>
 		<name>Spells</name>
 		<update version="0.4.9">
-			<file name="spells.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/players-handbook/spells.xml" />
+			<file name="spells.xml" url="https://raw.githubusercontent.com/Kyubendo/kon-elements/master/core/players-handbook/spells.xml" />
 		</update>
 	</info>
 

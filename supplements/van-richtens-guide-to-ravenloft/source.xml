@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/van-richtens-guide-to-ravenloft/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/Kyubendo/kon-elements/master/supplements/van-richtens-guide-to-ravenloft/source.xml" />
 		</update>
 	</info>
 	<element name="Van Richten's Guide To Ravenloft" type="Source" source="Core" id="ID_WOTC_SOURCE_VAN_RICHTENS_GUIDE_TO_RAVENLOFT">
